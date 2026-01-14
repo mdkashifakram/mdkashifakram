@@ -19,7 +19,7 @@ Building an open-source myoelectric prosthetic hand for **under ₹15,000** — 
 - Real-time inference on edge devices (ESP32/Raspberry Pi)
 - 3D-printed prosthetic hand integration
 
-**[→ View Project](https://github.com/mdkashifakram/neurogrip)**
+**[→ View Project](https://github.com/mdkashifakram/NueroGrip)**
 
 ---
 
