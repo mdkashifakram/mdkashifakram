@@ -1,4 +1,4 @@
-## Hi, I'm Kashif 👋
+## Hi, I'm Kashif!
 
 I'm a **backend engineer** working at the intersection of **distributed systems** and **applied AI**.
 
